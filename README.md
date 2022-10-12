@@ -1,1 +1,3 @@
-# Projeto-02-Playground-Functions
+# Projeto Playground Functions
+
+![Project Lessons Learned](./playgroundfunctions.png)
